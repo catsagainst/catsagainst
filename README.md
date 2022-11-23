@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning all the instrument which could be useful for testing. And Python. It's so elegant.
 - 💞️ I’m looking for a project on Software Testing. Manual testing. Where I could use Charles, Postman, SQL queries, DevTools etc.
 -  @catsagainst Telegram
+-  my CV https://github.com/catsagainst/QA_portfolio
 
 <!---
 catsagainst/catsagainst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
